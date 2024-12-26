@@ -1,0 +1,19 @@
+.jobs-card{
+    width: 100%;
+    border: 1px solid gray;
+    /* background-color: darkgray; */
+    color: white;
+    margin-bottom: 15px;
+    list-style: none;
+    padding: 15px;
+    border-radius: 15px;
+}
+.logo-title-rating-cont{
+    display: flex;
+    flex-direction: row;
+}
+.location-ppa-empType-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
